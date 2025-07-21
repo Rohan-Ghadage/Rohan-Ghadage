@@ -22,7 +22,7 @@ I'm a full-stack developer with a strong foundation in building scalable applica
 - Built backend APIs for user management, data processing, and system-level operations  
 - Deployed production-ready builds using **Vercel** and **AWS S3** for static storage  
 - Used **AWS IAM** for permission control and secure service access  
-- **Skills:** React.js, Tailwind CSS, Node.js, Express.js, AWS (S3, IAM), Google Cloud Platform(bucket, IAM), Vercel, Render, Git, GitHub
+- **Skills:** React.js, Tailwind CSS, Node.js, Express.js, AWS (S3, IAM), Google Cloud Platform(bucket, IAM), Vercel, Render, Postman, Git, GitHub
 
 ---
 
